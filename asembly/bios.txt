@@ -1,0 +1,3 @@
+boot options --> legacy support (enable...UEFI)
+
+secure boot OFF!! (securty)
